@@ -3,13 +3,13 @@
   <html>
    <body>
   <p align="center">  
-  <a aria-label="FORK" href="https://github.com/SuhailTechInfo/Secktor-bot/fork" target="_blank">
-    <img alt="License: GPL-3" src="https://img.shields.io/github/stars/SuhailTechInfo/web-qr?style=social" target="_blank" />
+  <a aria-label="FORK" href="https://github.com/godzenitsu/QUEEN-NEZUKO-MD/fork" target="_blank">
+    <img alt="License: GPL-3" src="https://img.shields.io/github/stars/godzenitsu/web-qr?style=social" target="_blank" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="NEZUKO_Md is free to use" href="https://Instagram.com/whoois.zenitsu" target="_blank">
+    <img alt="GODZENITSU" src="" target="_blank" />
   </a>
-    <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+    <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="godzenitsu :: Visitor's Count" /></p>
 
      
   </body>
@@ -18,9 +18,9 @@
 
 ## Deployment Methods
 ---
-1.  ***Click [`FORK`](https://github.com/SuhailTechInfo/web-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
-2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/web-qr).***
-3.  ***Deploy on [`REPLIT`](https://replit.com/github/SuhailTechInfo/web-qr).***
+1.  ***Click [`FORK`](https://github.com/godzenitsu/web-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
+2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/godzenitsu/web-qr).***
+3.  ***Deploy on [`REPLIT`](https://replit.com/github/godzenitsu/web-qr).***
 4. ***Deploy on [`RENDER`](https://dashboard.render.com/login).***
 ```
 RENDER PROCESS:
@@ -82,4 +82,6 @@ RENDER PROCESS:
 
 
 ## MADE WITH ❤️
-[![SuhailTechIinfo](https://github.com/SuhailTechInfo.png?size=300)](https://github.com/SuhailTechInfo)
+[![ZENITSU](https://graph.org/file/d6e389171a9ab224ca790.jpg)](https://github.com/godzenitsu)
+
+)
