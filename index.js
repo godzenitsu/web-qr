@@ -19,7 +19,7 @@ const MESSAGE = process.env.MESSAGE ||  `
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 •••』
-║ *Ytube:* https://nezukosupport.vercel.app/
+║ *Support:* https://nezukosupport.vercel.app/
 ║ *Owner:* _https://wa.me/91790738712_
 ║ *Note :*_Don't provide your SESSION_ID to_
 ║ _anyone otherwise that can access chats_
